@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5,FFCFE8,F9A8D4,FDB7D1&height=240&section=header&text=DeMoonlightt%20%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4&height=240&section=header&text=DeMoonlightt%20%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B8-%E2%80%94-%23F9A8D4?style=flat-square&labelColor=FFE4F0&color=FFE4F0" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B9-%E2%80%94-%23FFB7C5?style=flat-square&labelColor=FFE4F0&color=FFE4F0" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B7-%E2%80%94-%23FFCFE8?style=flat-square&labelColor=FFE4F0&color=FFE4F0" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8-%E2%80%94-%23FDB7D1?style=flat-square&labelColor=FFE4F0&color=FFE4F0" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B8-%E2%80%94-%23F9A8D4?style=flat-square&labelColor=FFE4F0&color=FFE4F0" />
 </p>
 
 <p align="center">
