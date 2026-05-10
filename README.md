@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Raey%20♡&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&pause=1000&color=AD7FA8&center=true&vCenter=true&width=500&lines=Frontend+developer+%26+UI%2FUX+crafter+%F0%9F%8C%B8;Building+soft+and+interactive+experiences+%E2%9C%A8;Currently+exploring+backend+development+%F0%9F%92%BB;Genshin+traveler+%26+Persona+enjoyer+%F0%9F%8C%99" alt="Typing SVG" />
 </p>
 
