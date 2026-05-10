@@ -9,4 +9,4 @@ Currently exploring the backend realm one API endpoint at a time 🚀
 - 📚 Currently learning backend development
 - 🌌 Making projects on (https://www.instagram.com/areuraey/)
 
-[![Raey's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoonlightt&show_icons=true&theme=radical)](https://github.com/demoonlightt)
+![Raey's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoonlightt&show_icons=true&theme=radical)
