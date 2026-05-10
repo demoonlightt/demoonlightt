@@ -14,20 +14,16 @@
 ---
 
 <!-- ABOUT -->
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F6,F3EEF9&height=1&section=header" width="0"/>
-  ✦ &nbsp; About Me &nbsp; ✦
-</h2>
+<h2 align="center">✦ &nbsp; About Me &nbsp; ✦</h2>
 
-```
-  🎀  Frontend Developer — focusing on UI/UX
-  🌸  Love creating soft, interactive web experiences
-  💻  Currently learning backend development
-  🎮  Genshin Impact traveler (Cryo main ❄)
-  🌙  Persona series enjoyer — P3R broke my heart
-  ✨  Turning ideas into cute little projects
-  🎨  Art & projects → Instagram: @areuraey
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer%20—%20UI%2FUX-%23F8BBD0?style=flat-square&labelColor=fff0f6" /><br>
+  🎀 Love creating soft, interactive web experiences<br>
+  💻 Currently learning backend development<br>
+  ❄️ Genshin Impact traveler (Cryo main)<br>
+  🌙 Persona series enjoyer — P3R broke my heart<br>
+  🎨 Art & projects → Instagram: <b>@areuraey</b>
+</p>
 
 ---
 
@@ -51,16 +47,12 @@
 <h2 align="center">✦ &nbsp; GitHub Stats &nbsp; ✦</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=demoonlightt&theme=tokyonight-duo&hide_border=true&border_radius=12&fire=F48FB1&ring=CE93D8&currStreakLabel=AD7FA8&sideLabels=AD7FA8&currStreakNum=F48FB1&sideNums=CE93D8&background=FFF0F6&stroke=F8BBD0&dates=9E7B8E" />
+  <img width="400" src="https://streak-stats.demolab.com?user=demoonlightt&theme=tokyonight-duo&hide_border=true&border_radius=12&fire=F48FB1&ring=CE93D8&currStreakLabel=AD7FA8&sideLabels=AD7FA8&currStreakNum=F48FB1&sideNums=CE93D8&background=FFF0F6&stroke=F8BBD0&dates=9E7B8E" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=demoonlightt&show_icons=true&hide_border=true&border_radius=12&title_color=AD7FA8&icon_color=F48FB1&text_color=5C3D52&bg_color=FFF0F6" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoonlightt&layout=compact&hide_border=true&border_radius=12&title_color=AD7FA8&text_color=5C3D52&bg_color=F3EEF9&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demoonlightt&theme=rose_pine" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=demoonlightt&show_icons=true&hide_border=true&border_radius=12&title_color=AD7FA8&icon_color=F48FB1&text_color=5C3D52&bg_color=FFF0F6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoonlightt&layout=compact&hide_border=true&border_radius=12&title_color=AD7FA8&text_color=5C3D52&bg_color=F3EEF9&langs_count=6" />
 </p>
 
 ---
@@ -76,7 +68,7 @@
   <img src="https://img.shields.io/badge/🌙%20Lyn%20Inaizumi%20·%20P3R%20OST-Atlus-%23F8BBD0?style=flat-square&labelColor=fff0f6&color=F8BBD0" />
 </p>
 
-> *"I'm here, I'm real... Color your night with me."* 🌙
+<p align="center"><i>"I'm here, I'm real... Color your night with me."</i> 🌙</p>
 
 ---
 
@@ -100,5 +92,5 @@
 </p>
 
 <p align="center">
-  <i>crafted with lots of ♡ · raey · 2025</i>
+  <i>crafted with lots of ♡ · raey · 2026</i>
 </p>
