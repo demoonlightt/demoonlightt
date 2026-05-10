@@ -1,10 +1,5 @@
 <p align="center">
-  <a href="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Raey%20%E2%99%A1&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-    <img
-      src="https://readme-theta-gray.vercel.app/"
-      width="100%"
-    />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,CE93D8,9FA8DA&height=220&section=header&text=Raey%20♡&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=frontend%20dev%20%7C%20soft%20ui%20%7C%20teyvat%20traveler&descSize=14&descAlignY=58&descColor=ffffff"/>
 </p>
 
 <p align="center">
