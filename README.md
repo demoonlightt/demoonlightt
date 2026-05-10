@@ -1,8 +1,10 @@
 <p align="center">
-  <img
-    src= "https://readme-theta-gray.vercel.app/"
-    width="100%"
-  />
+  <a href="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Raey%20%E2%99%A1&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+    <img
+      src="https://readme-theta-gray.vercel.app/"
+      width="100%"
+    />
+  </a>
 </p>
 
 <p align="center">
