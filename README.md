@@ -10,7 +10,6 @@ Currently exploring the backend realm one API endpoint at a time ✨
 </p>
 
 ---
-Hi, I'm Raey ‧₊˚♪ 𝄞₊˚⊹
 
 ## About Me 🌷
 
