@@ -9,8 +9,5 @@ Currently exploring the backend realm one API endpoint at a time 🚀
 - 📚 Currently learning backend development
 - 🌌 Making projects on (https://www.instagram.com/areuraey/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=demoonlightt&theme=github_dark)
+<img src="https://github-widgetbox.vercel.app/api/profile?username=demoonlightt&data=followers,repositories,stars,commits&theme=nautilus" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demoonlightt&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demoonlightt&theme=github_dark)
