@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&pause=1000&color=AD7FA8&center=true&vCenter=true&width=500&lines=Frontend+developer+%26+UI%2FUX+crafter+%F0%9F%8C%B8;Building+soft+and+interactive+experiences+%E2%9C%A8;Currently+exploring+backend+development+%F0%9F%92%BB;Genshin+traveler+%26+Persona+enjoyer+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&pause=1000&color=AD7FA8&center=true&vCenter=true&width=500&lines=Frontend+developer+%26+UI%2FUX+crafter+%F0%9F%8C%B8;Building+soft+and+interactive+experiences+%E2%9C%A8;Currently+exploring+backend+development+%F0%9F%92%BB;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer%20—%20UI%2FUX-%23F8BBD0?style=flat-square&labelColor=fff0f6" /><br>
   🎀 Love creating soft, interactive web experiences<br>
   💻 Currently learning backend development<br>
-  ❄️ Genshin Impact traveler (Cryo main)<br>
-  🌙 Persona series enjoyer — P3R broke my heart<br>
   🎨 Art & projects → Instagram: <b>@areuraey</b>
 </p>
 
