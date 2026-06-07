@@ -79,18 +79,7 @@
   <img src="https://img.shields.io/badge/🌙%20Lyn%20Inaizumi%20·%20P3R%20OST-Atlus-%23F8BBD0?style=flat-square&labelColor=fff0f6&color=F8BBD0" />
 </p>
 
-<p align="center"><i>"I'm here, I'm real... Color your night with me."</i> 🌙</p>
-
----
-
-<!-- GENSHIN ELEMENTS DECO -->
-<p align="center">
-  <img src="https://img.shields.io/badge/❄%20Cryo-%23E8F4FD?style=flat-square&color=E8F4FD&labelColor=E8F4FD" />
-  <img src="https://img.shields.io/badge/🌿%20Anemo-%23E8FAF2?style=flat-square&color=E8FAF2&labelColor=E8FAF2" />
-  <img src="https://img.shields.io/badge/💧%20Hydro-%23E8EFFE?style=flat-square&color=E8EFFE&labelColor=E8EFFE" />
-  <img src="https://img.shields.io/badge/⚡%20Electro-%23F0E8FD?style=flat-square&color=F0E8FD&labelColor=F0E8FD" />
-  <img src="https://img.shields.io/badge/🍃%20Dendro-%23EEF9E8?style=flat-square&color=EEF9E8&labelColor=EEF9E8" />
-</p>
+<p align="center"><i>"Another wander in the night. Let me paint the view. Color a town with my light. For every moment shared with you"</i> 🌙</p>
 
 ---
 
@@ -103,5 +92,5 @@
 </p>
 
 <p align="center">
-  <i>crafted with lots of ♡ · raey · 2026</i>
+  <i>crafted with lots of ♡ · DeMoonlightt · 2026</i>
 </p>
