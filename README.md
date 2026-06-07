@@ -84,13 +84,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9FA8DA,CE93D8,F8BBD0&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=demoonlightt&style=flat-square&color=F8BBD0&label=travelers+visited" />
-</p>
-
-<p align="center">
   <i>crafted with lots of ♡ · DeMoonlightt · 2026</i>
 </p>
